@@ -1,4 +1,16 @@
 aid: yellowai
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/yellowai.png
 name: Yellow.ai
 description: 'Yellow.ai is a company surfaced as a portfolio company of sapphire-ventures and added to
   the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the
