@@ -1,0 +1,36 @@
+# Front Door AI Index — yellowai — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: yellowai
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: yellow.ai
+  final_host: yellow.ai
+  ownership: own
+  owner: yellowai
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 89
+  host_score: 89
+  density: 76.26
+  words: 1167
+  tiers:
+    agentic: 39
+    core: 50
+    model: 0
+  ambiguous: 36
+  top_terms:
+    AI: 43
+    agent: 28
+    AI agent: 23
+    agentic: 10
+    LLMs: 6
+    automation: 6
+    RAG: 2
+    copilot: 2
+    intelligence: 2
+    AI assistant: 1
+    gen ai: 1
+    prompts: 1
